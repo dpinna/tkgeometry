@@ -1,5 +1,3 @@
-# tkgeometry
-
 Before the compilation:
   Be sure to have a working version of root active: this means that you have root and root-config in your path.
   If you are on lxplus, or on any other comuter with afs mounted you can obtain this by executing
@@ -41,4 +39,4 @@ Update
   # svn up
   # make
   # ./install.sh
-
+  
