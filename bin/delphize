@@ -1,5 +1,5 @@
 #!/bin/bash
-source ~/tklayout.env 
+source ~/Phase2UpgradeStudies/tkgeometry/setup_slc6.sh
 source $TKGEOMETRYRC
 source $TKG_BINDIRECTORY/setup.sh
 
